@@ -1,14 +1,5 @@
-# Python
+.venv/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-venv/
-
-# OS
+.env
+*.db
 .DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
